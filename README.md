@@ -9,7 +9,7 @@ The project can be installed by downloading the repository into a zip file, open
 ![CleanShot 2024-06-16 at 19 20 52](https://github.com/jairatagle/my-blog/assets/168057021/3bed09df-30e2-4f81-beb9-3621aa43614a)
 
 ## Usage
-The project can be viewed by opening the `index.html` file in your browser. Furthermore, you can inspect the code using Google Chrome Dev Tools. Head to the `Application` tab > `Local Storage` to view all that is saved within the local storage after submitting a blog entry. The deployed page can be viewed here:
+The project can be viewed by opening the `index.html` file in your browser. Furthermore, you can inspect the code using Google Chrome Dev Tools. Head to the `Application` tab > `Local Storage` to view all that is saved within the local storage after submitting a blog entry. The deployed page can be viewed here: https://jairatagle.github.io/my-blog/
 
 ## Credits
 The acceptance criteria was provided by Monash University Bootcamps and the mockup was provided by Lernantino.
